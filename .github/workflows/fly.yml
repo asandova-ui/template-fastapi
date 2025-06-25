@@ -1,7 +1,7 @@
 name: CI & Deploy Fly.io
 on:
   push:
-    branches: [main]
+    branches: [master]
 jobs:
   test:
     runs-on: ubuntu-latest
