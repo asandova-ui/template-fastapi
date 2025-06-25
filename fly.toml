@@ -4,7 +4,7 @@
 #
 
 app = 'template-fastapi'
-primary_region = 'mad'
+primary_region = 'cdg'
 
 [build]
   dockerfile = 'Dockerfile'
